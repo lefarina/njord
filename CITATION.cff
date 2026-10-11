@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Njord: directional wave spectra from wind histories"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/lefarina/njord"
+authors:
+  - family-names: Farina
+    given-names: Leandro
+    affiliation: "Institute of Mathematics and Statistics, Federal University of Rio Grande do Sul"
