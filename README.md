@@ -11,6 +11,9 @@ the energy of each spectrum according to its significant wave height.
 Nothing in the code is tied to a particular site: any point with wind fields
 and spectra in the format below can be used.
 
+The code is archived on Zenodo
+([doi:10.5281/zenodo.24400745](https://doi.org/10.5281/zenodo.24400745)).
+
 ## Installation
 
 ```bash
