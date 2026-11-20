@@ -22,7 +22,8 @@ training; inference runs on a CPU.
 
 ## Pretrained models
 
-Trained models for four sites are available on Zenodo (DOI to be added):
+Trained models for four sites are available on Zenodo
+([doi:10.5281/zenodo.23303894](https://doi.org/10.5281/zenodo.23303894)):
 West Bermuda (NDBC 41048), East Gulf (42003), Southwest Hawaii (51002) and
 Stratus (32012). They were trained on 1993 to 2021 and each one is valid only
 for its site. Each file contains the weights, the wind normalisation, the
@@ -114,8 +115,7 @@ pytest tests
 
 If you use Njord, please cite:
 
-> Farina, L. Are Winds All We Need? Learning and Explaining Directional Wave
-> Spectra. In preparation.
+> Farina, L. Can Winds Alone Predict Ocean Wave Spectra? Submitted.
 
 ## License
 
